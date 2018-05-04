@@ -1,22 +1,20 @@
-title: Strata by HTML5 UP
+title: Xuefeng Hu
 description: >
-  **I am Strata**, a super simple
-  responsive site template freebie
-  crafted by [HTML5 UP](http://html5up.net).
-copyright: Untitled
+  **I am Xuefeng**, a first year PhD student at [Computer Science Department](https://www.cs.usc.edu/) at [University of South California](https://www.usc.edu/), advised by [Prof.Ram Nevatia](http://iris.usc.edu/people/nevatia/).
+copyright: 
 sass:
   sass_dir: assets/sass
 url: http://localhost:4000
 disqus_shortname: stratajekylldemo
-facebook_username:
-twitter_username: "#"
-linkedin_username: "#"
-instagram_username:
+facebook_username: "xuefeng.leon.hu"
+twitter_username: 
+linkedin_username: "/xuefeng-hu-137b9485"
+instagram_username: "xuefenghu"
 pinterest_username:
 flickr_username:
-github_username:  "#"
+github_username:  "michiganleon"
 feed_icon: rss
-email: "#"
+email: "xuefengh at usc.edu"
 gems: [jekyll-paginate]
 paginate_path: "/page/:num/"
 paginate: 5
