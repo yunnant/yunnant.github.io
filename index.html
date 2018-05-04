@@ -28,7 +28,12 @@ image: /images/fulls/01.jpg
       Further info can be found in my <a href="/resources/XuefengHuCV.pdf" target="_blank">Curriculum Vitae</a> (Updated December 2017).
       </font>
     </p>
+    <h2><a href="/sections/Projects.html">Projects</a></h2>
+    <h2><a href="/sections/Publications.html">Publications</a></h2>
+    <h2><a href="/sections/MoreFacts.html">Miscellaneous</a></h2>
   </section>
+  <section></section>
+
 
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
@@ -37,6 +42,7 @@ image: /images/fulls/01.jpg
     <p>
       <span><i class="fa fa-calendar"></i> {{ post.date | date: "%d %B %Y" }}{% if post.categories %} on <i class="fa fa-tags"></i> {{ post.categories | join: ', ' }}{% endif %}</span>
     </p>
+
     <div>
       {{ post.excerpt }}
     </div>
