@@ -33,9 +33,12 @@ image: /images/fulls/01.jpg
     <h2><a href="/sections/MoreFacts.html">Miscellaneous</a></h2>
   </section>
 
+<section>
+<header class="major">
+      <h2>Blog</h2>
+</header>
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
-  <section>
     <h2><a href="{{ post.url | prepend: site.github.url }}">{{ post.title }}</a></h2>
     <p>
       <span><i class="fa fa-calendar"></i> {{ post.date | date: "%d %B %Y" }}{% if post.categories %} on <i class="fa fa-tags"></i> {{ post.categories | join: ', ' }}{% endif %}</span>
@@ -44,8 +47,10 @@ image: /images/fulls/01.jpg
     <div>
       {{ post.excerpt }}
     </div>
-  </section>
+    <HR style="border:1 dashed #987cb9" width="100%" color=#987cb9 SIZE=1>
 {% endfor %}
+</section>
+
 
 {% if paginator.total_pages > 1 %}
 <!-- Pagination links -->
