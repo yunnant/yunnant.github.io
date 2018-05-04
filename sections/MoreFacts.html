@@ -2,41 +2,62 @@
 layout: annoucement
 title:  "More Facts About Me"
 ---
-<!-- One 
+<!-- One -->
 	<section id="one">
 		<script type="text/javascript" src="instafeed.min.js"></script>
 		<p>
 			<ul>
-				<li>
-					<script type="text/javascript">
-					    var feed = new Instafeed({
-					        get: 'tagged',
-					        tagName: 'awesome',
-					        clientId: '8197ce5e132f4ad6aa1ad85ad821f6ea'
-					    });
-					    feed.run();
-					</script>
-					<div id="instafeed"></div>
-				</li>
+<li> 锵锵三人行忠实听众 </li>
+<li> Constantine P. Cavafy/W. Somerset Maugham/Raymond Carver/Leonard Cohen</li>
+<li> 苗炜/张玮玮/腰/万青/草东 狂热爱好者 </li>
+<li> 资深铲屎官 </li>
+<li> 前美术学徒 </li>
+<li> 门外汉设计师 </li>
+<li> 前写作爱好者 </li>
+<li> 长期健身菜鸟 </li>
+<li> 业余电影爱好者 </li>
+<li> Snapseed摄影师 </li>
+<li> 五音不全吉他演奏师 </li>
+<li> 靠下厨房做菜的厨子 </li>
+<li> 旅途攻略策划小能手 </li>
+<li> Smartisan/Nexus/Pixel User</li>
+<li> 数学爱好者/前数学竞赛选手 </li>
+<li> Dalian -> Shanghai -> Ann Arbor -> New York -> Los Angeles </li>
+<li> 不喜争端 </li>
+<li> 特别和蔼 </li>
+<li> 永远在路上 </li>
 			</ul>
 		</p>
 	</section>
--->
 
-<div id="instafeed">
-</div>
-<script src="https://matthewelsom.com/assets/js/libs/instafeed.min.js"></script>
+<!--
+<div id="instafeed"> </div>
+<script src="instafeed.min.js"></script>
 <script type="text/javascript">
-  var userFeed = new Instafeed({
-    get: 'user',
-    userId: '977617522',
-    clientId: '8197ce5e132f4ad6aa1ad85ad821f6ea',
-    accessToken: '977617522.8197ce5.f3f18d80860b48a5a523f82de0921a05',
-    resolution: 'standard_resolution',
-    template: '<a href="{{link}}" target="_blank" id="{{id}}"><img src="{{image}}" /></a>',
-    sortBy: 'most-recent',
-    limit: 4,
-    links: false
-  });
-  userFeed.run();
+  var tutorialFeed = new Instafeed ({
+  get: 'user',
+  userId: '977617522',
+  target: 'instafeed',
+  clientId: '8197ce5e132f4ad6aa1ad85ad821f6ea',
+  accessToken: '977617522.8197ce5.f3f18d80860b48a5a523f82de0921a05',
+  resolution: 'standard_resolution',
+  sortBy: 'most-recent',
+  limit: 9,
+  template: '<div class="image-item insta-page">' +
+  '<a class="image insta-image" href="{{image}}>' +
+  '<img alt="{{user.full_name}}" src="{{image}}>' +
+  '<div class="img-backdrop-tutorial">' +
+  '<div class="insta-caption">' +
+  '<p>{{caption}}</p>' +
+  '</div>' +
+  '</div>' +
+  '<div class="captions">' +
+  '<a></a>' +
+  '</div>' +
+  '</a>' +
+  '</div>'
+   });
+   tutorialFeed.run();
+
 </script>
+-->
