@@ -2,9 +2,9 @@
 layout: annoucement
 title:  "More Facts About Me"
 ---
+
 <!-- One -->
 	<section id="one">
-		<script type="text/javascript" src="instafeed.min.js"></script>
 		<p>
 			<ul>
 <li> Huge Fan of <a href="https://www.youtube.com/user/qqsrxofficial" target="_blank">锵锵三人行</a></li>
@@ -37,34 +37,13 @@ title:  "More Facts About Me"
 			</ul>
 		</p>
 	</section>
-<!--
-<div id="instafeed"> </div>
-<script src="instafeed.min.js"></script>
-<script type="text/javascript">
-  var tutorialFeed = new Instafeed ({
-  get: 'user',
-  userId: '977617522',
-  target: 'instafeed',
-  clientId: '8197ce5e132f4ad6aa1ad85ad821f6ea',
-  accessToken: '977617522.8197ce5.f3f18d80860b48a5a523f82de0921a05',
-  resolution: 'standard_resolution',
-  sortBy: 'most-recent',
-  limit: 9,
-  template: '<div class="image-item insta-page">' +
-  '<a class="image insta-image" href="{{image}}>' +
-  '<img alt="{{user.full_name}}" src="{{image}}>' +
-  '<div class="img-backdrop-tutorial">' +
-  '<div class="insta-caption">' +
-  '<p>{{caption}}</p>' +
-  '</div>' +
-  '</div>' +
-  '<div class="captions">' +
-  '<a></a>' +
-  '</div>' +
-  '</a>' +
-  '</div>'
-   });
-   tutorialFeed.run();
 
-</script>
--->
+  <section>
+    <header class="major">
+      <h2>Recent photos from <a href="https://www.instagram.com/xuefenghu/" target="_blank"> my Instagram</a></h2>
+    </header>
+    {% include instgram.html %}
+  </section>
+
+
+
