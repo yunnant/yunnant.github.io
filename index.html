@@ -35,8 +35,13 @@ image: /images/fulls/01.jpg
 
 <section>
 <header class="major">
-      <h2>Blog</h2>
+      <h1>Blog</h1>
+      <h4>As you set out for Ithaka, hope the voyage is a long one. <br>
+      <a href="http://www.cavafy.com/poems/content.asp?id=74">[<I>Ithaka</I>, C.P. Cavafy]</a></h4>
 </header>
+<br>
+  
+<br>
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
     <h2><a href="{{ post.url | prepend: site.github.url }}">{{ post.title }}</a></h2>
