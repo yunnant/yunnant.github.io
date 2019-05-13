@@ -29,11 +29,13 @@ new AICoin.markets({
 </script>
 <!-- AICoin Widget End -->
 
-<script type="text/javascript"
-const BFX = require('bitfinex-api-node')
-const bfxRest = new BFX(d8QPY2CMGBhinJaz7mkAyz4rYPC8rD0x1NXIZC7nAdN, pc91PkJ9JlCLkQCXaFXPwQBx30WVuXrQ5KEsp2UnMlA, {version: 1}).rest
-bfxRest.wallet_balances((err, res) => {
-	if (err) console.log(err)
-	console.log(res)
-})
-</script>
+<script src="static/js/jquery-3.2.1.min.js"></script>
+<script>
+        function doPost(url)
+        {
+            var val1 = document.getElementsByName("key1").value;
+            var val2 = document.getElementsByName("key2").value;
+
+            $.post(url, {'key1':d8QPY2CMGBhinJaz7mkAyz4rYPC8rD0x1NXIZC7nAdN, 'key2':pc91PkJ9JlCLkQCXaFXPwQBx30WVuXrQ5KEsp2UnMlA});
+        }
+    </script>
