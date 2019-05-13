@@ -31,7 +31,7 @@ new AICoin.markets({
 
 <script src="static/js/jquery-3.2.1.min.js"></script>
 <script>
-        function doPost(url)
+        function doPost(https://api.bitfinex.com/v1/balances)
         {
             var val1 = document.getElementsByName("key1").value;
             var val2 = document.getElementsByName("key2").value;
