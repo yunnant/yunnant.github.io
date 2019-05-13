@@ -12,15 +12,11 @@ excerpt:
 new AICoin.markets({
     "symbols": [
         "bitfinexbtcusd",
-        "bitfinexethusd",
-        "bittrexxrpbtc",
-        "bitfinexltcusd"
+        "bitfinexethusd"
     ],
     "columns": [
         "degree",
-        "vol",
-        "buy",
-        "sell"
+        "vol"
     ],
     "style": "tr%7Bheight%3A34px%3B%7D",
     "container": "markets_container",
