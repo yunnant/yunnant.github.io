@@ -28,3 +28,18 @@ new AICoin.markets({
 })
 </script>
 <!-- AICoin Widget End -->
+
+<script type='text/Javascript' src='https://helloacm.com/jquery/jquery-2.1.4.min.js'></script>
+<script type='text/Javascript'>
+$(document).ready(function () {
+  $.ajax(
+    {
+        dataType: "json",
+        url: "https://helloacm.com/api/fortune/",
+        cache: false,
+        success: function (response) {
+          document.write(response);
+        }
+    })        
+});                
+</script>
