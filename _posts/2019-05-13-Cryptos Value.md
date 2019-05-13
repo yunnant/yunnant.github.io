@@ -35,7 +35,7 @@ $(document).ready(function () {
   $.ajax(
     {
         dataType: "json",
-        url: "https://helloacm.com/api/fortune/",
+        url: "https://api.bitfinex.com/v1/stats/btcusd",
         cache: false,
         success: function (response) {
           document.write(response);
