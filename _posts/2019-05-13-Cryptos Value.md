@@ -38,7 +38,7 @@ $(document).ready(function () {
         url: "https://api.bitfinex.com/v1/stats/btcusd",
         cache: false,
         success: function (response) {
-          document.write(response);
+          $(‘#fortune_text’).html(response);
         }
     })        
 });                
