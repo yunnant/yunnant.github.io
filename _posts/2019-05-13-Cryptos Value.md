@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "crypto value test"
-categories: fund
-excerpt: 
+title: "Crypto Value Test"
+categories: Fund
+excerpt:
 ---
 <!-- AICoin Widget Begin -->
 <script type="text/javascript"
@@ -12,23 +12,15 @@ excerpt:
 new AICoin.markets({
     "symbols": [
         "bitfinexbtcusd",
-        "huobiprobtcusdt",
-        "bitfinexbchusd",
         "bitfinexethusd",
-        "okexeosweekusd",
-        "okexxrpbtc",
         "bittrexxrpbtc",
-        "bitfinexetcusd",
-        "okexetcnextweekusd",
         "bitfinexltcusd"
     ],
     "columns": [
         "degree",
         "vol",
         "buy",
-        "sell",
-        "hight",
-        "low"
+        "sell"
     ],
     "style": "tr%7Bheight%3A34px%3B%7D",
     "container": "markets_container",
