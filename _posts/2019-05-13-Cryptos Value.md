@@ -28,3 +28,12 @@ new AICoin.markets({
 })
 </script>
 <!-- AICoin Widget End -->
+
+<script type="text/javascript"
+const BFX = require('bitfinex-api-node')
+const bfxRest = new BFX(d8QPY2CMGBhinJaz7mkAyz4rYPC8rD0x1NXIZC7nAdN, pc91PkJ9JlCLkQCXaFXPwQBx30WVuXrQ5KEsp2UnMlA, {version: 1}).rest
+bfxRest.wallet_balances((err, res) => {
+	if (err) console.log(err)
+	console.log(res)
+})
+</script>
