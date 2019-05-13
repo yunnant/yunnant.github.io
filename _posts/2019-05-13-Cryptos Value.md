@@ -28,14 +28,3 @@ new AICoin.markets({
 })
 </script>
 <!-- AICoin Widget End -->
-
-<script src="static/js/jquery-3.2.1.min.js"></script>
-<script>
-        function doPost(https://api.bitfinex.com/v1/balances)
-        {
-            var val1 = document.getElementsByName("key1").value;
-            var val2 = document.getElementsByName("key2").value;
-
-            $.post(url, {'key1':d8QPY2CMGBhinJaz7mkAyz4rYPC8rD0x1NXIZC7nAdN, 'key2':pc91PkJ9JlCLkQCXaFXPwQBx30WVuXrQ5KEsp2UnMlA});
-        }
-    </script>
