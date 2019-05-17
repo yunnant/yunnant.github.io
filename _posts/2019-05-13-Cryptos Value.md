@@ -24,3 +24,4 @@ new AICoin.markets({
 })
 </script>
 <!-- AICoin Widget End -->
+<img src="https://alternative.me/crypto/fear-and-greed-index.png" alt="Latest Crypto Fear & Greed Index" />
