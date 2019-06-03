@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "资金管理笔记 Asset Management"
+title: "仓位管理笔记 Position Management"
 categories: Finance
 excerpt:
 ---
