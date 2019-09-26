@@ -6,23 +6,136 @@ excerpt:
 ---
 原文网址Origin：https://zhuanlan.zhihu.com/p/66181973
 
-Tobedone: Rotational lag fit, capital flow analysis, sentiment index analysis, market making, beta hedging, social network pricing, grid strategy, public opinion analysis.
+Tobedone: Money Flow Analysis, Option Arbitrage, Options Strategy, High Frequency Probe, Market Status, Algorithmic Trading, Chip Analysis, Mining Cost, High Frequency Market, Wheeling Hysteresis Fit, Beta Hedging, Lyric Factor, Event Driven, Multi-factor combination, profit analysis (scatter plot).
 
-#0.31 Documentary strategy.
+#0. Algorithmic trading.
+Detail: iceberg, reverse iceberg https://daily.zhihu.com/story/4081702
+Issue:stack:
+#0.():.
+
+
+#0. Event driven.
+Detail: https://medium.com/@xyshell/event-study-on-ignis-airdrop-2f7a93bb24f4 off the shelf https://www.zhihu.com/column/p/57012933 issue:stack: #0.() :.
+
+
+#0. High frequency.
+Detail: Market: https://www.htfc.com/wz_upload/png_upload/20181204/1543883952362f50e60.pdf http://blog.sina.com.cn/s/blog_8e6ab2610102v601.html http://www.hicend.com .cn/gpimage/gppage.pdf
+Microstructure: Penny Jump: https://www.fmz.com/strategy/358
+Issue:stack:
+#0.():.
+————————————————————————————————————————
+
+2019.09.18
+
+#0.47 Arbitrage, 0.5 by wave.
 Detail:
-With the flow 0.1:
-     optimize the target:
-     Disadvantages:
-#0.32(): Go online with the strategy. Issue:stack:
+#0.48():.
+2019.08.23
 
-2019.06.04
-
-#0.3 Change the server, configure the server (cheap is not good, no good goods) Turtle strategy online.
+#0.46 Web backend, (grid strategy), network pricing.
 Detail:
-#0.31(): Documentary strategy. Issue:stack:
-——————————————————————————————————————
+Web page backend: Add English interface, front and back end framework is completed, waiting for continuous update. Https://zhuanlan.zhihu.com/p/75805097
+Network pricing: developed with Boyang
+Other: The Ark was opened. . .
+#0.47(): Arbitrage is on the line, 0.5 by wave.
 
-2019.06.02
+Network pricing
+2019.07.27
+
+#0.45 (web backend), (server-to-server data transfer), (grid strategy), (network pricing), optimization convergence curve, genetic algorithm per generation statistical indicators, rpc multi-user, record a variety of data.
+Detail:
+Casting the net 0.1:
+Web page backend: Data: https://min-api.cryptocompare.com/data/price?fsym=BTC&tsyms=USD
+Other: strategy development https://www.jianshu.com/u/KWYc3d https://v.jfz.com/detail-23494.html
+Sql:http://www.runoob.com/mysql/mysql-drop-tables.html On_query for each interface is written to the database
+Issue:stack: multi-page django mysql
+#0.46():.
+2019.07.24
+
+#0.44 (Grid Strategy), (Network Pricing), (Optimized Convergence Curve), Multi-User Related Files, Front-End Console Design, (Genetic Algorithms for Each Generation of Statistical Indicators), rpc Server.
+Detail:
+Multi-user: http://www.vnpie.com/forum.php?mod=viewthread&tid=2017
+Front end: https://zhuanlan.zhihu.com/p/27809706
+Issue: The policy client and the transaction server are disconnected, the transaction server is abnormal, and the network security is: the webpage data is transmitted in one direction, and the user account password is encrypted. Stack:vue,Flask,Django,rpc
+#0.45():.
+
+Front end interface
+![avatar](https://pic4.zhimg.com/80/v2-46b66f51169d17306e33d1de245780d7_hd.jpg）
+2019.07.21
+
+#0.43 (Grid Strategy), (Network Pricing), (Optimized Convergence Curve), the process terminates the instant alarm, upgrades the server 4 core 4g again, (user settings file), status push 0.1.
+Detail:
+  Grid: https://www.fmz.com/bbs-topic/674 https://www.fmz.com/bbs-topic/182 Hedging Grid https://www.fmz.com/bbs-topic/ 718 https://www.fmz.com/bbs-topic/657 Trend Grid Hedge Grid Market https://zhuanlan.zhihu.com/p/34400090 Grid Market https://zhuanlan.zhihu.com /p/35170854
+  Wanglou 0.1: current running time, current running strategy.
+  Optimization curve: https://deap.readthedocs.io/en/master/tutorials/basic/part3.html
+Issue:stack:
+Other: full market commission https://data.bitcoinity.org/markets/books/USD
+#0.44():.
+2019.07.16
+
+#0.42 (Funding Flow Analysis), (Network Pricing), (Drawing Optimization Convergence Curve), Strategy Daily Profit and Loss Report.
+Detail: Network pricing: https://www.blockchain.com/charts/n-unique-addresses
+Over-optimization Large sample Inside and outside the sample Large number of parameters Number of parameters Detecting near optimal parameters Porting other products Regularization
+Issue:stack:
+#0.43() Grid Strategy:.
+2019.07.14
+
+#0.41 (fund flow analysis), (network pricing), sentiment index factor, under tick data.
+Detail: Network pricing: https://www.chainnews.com/articles/187926866705.htm https://zh-cn.coinnewstelegraph.com/bitcoin-pricing-models-part-iii-bitcoin-usd-cryptocurrencybtc-usd/ Https://zhuanlan.zhihu.com/p/42085333 https://36kr.com/p/5136787
+Other: classic strategy https://www.fmz.com/bbs-topic/50
+Policy Encryption https://www.vnpy.com/forum/topic/72-vnpyce-lue-jia-mi-jiao-cheng
+Logger.info, set proxy
+Issue:sock, proxy, delegate decimal point (modify utility.roundto), multiple drawdowns. Stack:
+#0.42(): High frequency market.
+
+Emotional index and bitcoin price
+2019.07.08
+
+#0.40 The order is on the line. (It seems to go nowhere, shelving, power index)
+Detail: Wave-by-wave tread 0.3:second class, increase the variable, increase the tick-level backtest interface function (engine, widget, engine, base).
+#0.41(): Money flow analysis, social network pricing, sentiment index factor. Issue:stack:
+
+2019.06.29
+
+#0.35 Documentary strategy; Big Wave head 0.21; multi-user environment update.
+Detail: Wave-by-wave tread 0.1: two directions, detection and calculation. High frequency http://www.vnpie.com/forum.php?mod=viewthread&tid=2815 http://www.vnpie.com/forum.php?mod=viewthread&tid=1445 The difference in server location is true More, the value of the flower
+        Big wave head 0.21: Start immediately, increase the interval parameter, state push.
+        Segmetation fault, api error message https://www.fmz.com/bbs-topic/597; sqlite3 -csv -header database.db "select * from dbtickdata" > stat.csv;
+#0.36(0630): The follow-up strategy is online. Issue:rest/websocket stack:
+2019.06.25
+
+#0.33 Arbitrage strategy developing with Bo Yang, data source update.
+Detail: current data source: vnpy record, coinapi.io, cryptocompare, 1token (https://1token.trade/docs#/hist-quote/historical-data?id=%e5%8e%86%e5%8f%b2candle %e6%95%b0%e6%8d%ae)
+The platform price difference is more than 0.1: https://zhuanlan.zhihu.com/p/20090944 (super classic article); https://www.jianshu.com/p/735f2504c749; https://blog.csdn.net /weQuarter/article/details/76096239, disadvantages: less opportunities. Need to develop interfaces and find opportunities.
+Inter-temporal arbitrage, arbitrage for the period, accumulated over the years 0.1: https://zhuanlan.zhihu.com/p/39236374; https://www.chainnode.com/post/43382 Advantages: Leverage, attention: inter-period Arbitrage needs to judge the basis trend has a higher risk, and needs to conduct a stationarity test; https://www.zhihu.com/question/38359735 https://www.joinquant.com/view/community/detail/724d837f8cc7cb1bb839a71edb84b515
+Variety arbitrage: http://blog.sina.com.cn/s/blog_5008d72e0102vwtk.html
+#0.34(0630): Arbitrage on-line real. Issue:stack:
+
+Spread of a certain two products
+2019.06.19
+
+#0.32 The turtle is on the line.
+Detail: The original sin of the gods is not bad. . Code analysis https://blog.csdn.net/IAlexanderI/article/details/81457853; http://101.132.65.227/?cat=3; high frequency is a bit difficult; https://www.vnpy.com/forum/ Topic/16-vnpyde-si-wei-dao-tu-jia-gou architecture diagram
+#0.33(0625): Spread strategy, capital flow analysis. Issue:stack:
+
+
+
+Most of the subsequent logs are strategic modeling and programming implementation, and interested can contact me.
+
+2019.06.06
+
+#0.31 Backtesting, tuning, testing turtle strategy, nailing robot 0.2, windows environment configuration, multi-user environment building.
+Detail: https://www.vnpy.com/user/KeKe/topics?page=2
+#0.32(0609): The strategy of the order, the turtle is on the line. Issue:stack:
+
+The class diagram is from the WeChat group.
+
+The class diagram is from the WeChat group.
+2019.06.05
+
+#0.3 Change the server, configure the server (cheap is not good, no good goods), the original server is used to download data, the turtle is online.
+Detail: resolution xrandr -s 1280x1024_60.02; swapon /mnt/swap;echo 10 >/proc/sys/vm/swappiness;bitmex overloadhttps://www.vnpy.com/forum/topic/147-hai-gui- Ce-lue-jiao-yi-bitmexde-xbtusdbei-ju-dan-de-wen-ti;
+#0.31(0607):issue:stack:
 
 #0.23 Calculate the volatility and nail robot status tracking.
 Detail:std(diff(log)));
