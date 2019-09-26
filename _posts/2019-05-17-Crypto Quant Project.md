@@ -6,7 +6,7 @@ excerpt:
 ---
 原文网址Origin：https://zhuanlan.zhihu.com/p/66181973
 
-Tobedone: Money Flow Analysis, Option Arbitrage, Options Strategy, High Frequency Probe, Market Status, Algorithmic Trading, Chip Analysis, Mining Cost, High Frequency Market, Wheeling Hysteresis Fit, Beta Hedging, Lyric Factor, Event Driven, Multi-factor combination, profit analysis (scatter plot).
+Tobedone: Money Flow Analysis, Option Arbitrage, Options Strategy, High Frequency Probe, Market Status, Algorithmic Trading, Chip Analysis, Mining Cost, High Frequency Marketing, Wheeling Hysteresis Fit, Beta Hedging, Lyric Factor, Event Driven, Multi-factor combination, profit analysis (scatter plot).
 
 #0. Algorithmic trading.
 Detail: iceberg, reverse iceberg https://daily.zhihu.com/story/4081702
@@ -15,11 +15,13 @@ Issue:stack:
 
 
 #0. Event driven.
-Detail: https://medium.com/@xyshell/event-study-on-ignis-airdrop-2f7a93bb24f4 off the shelf https://www.zhihu.com/column/p/57012933 issue:stack: #0.() :.
+Detail: https://medium.com/@xyshell/event-study-on-ignis-airdrop-2f7a93bb24f4 off the shelf https://www.zhihu.com/column/p/57012933
+issue:stack:
+#0.() :.
 
 
 #0. High frequency.
-Detail: Market: https://www.htfc.com/wz_upload/png_upload/20181204/1543883952362f50e60.pdf http://blog.sina.com.cn/s/blog_8e6ab2610102v601.html http://www.hicend.com .cn/gpimage/gppage.pdf
+Detail: Market: https://www.htfc.com/wz_upload/png_upload/20181204/1543883952362f50e60.pdf http://blog.sina.com.cn/s/blog_8e6ab2610102v601.html http://www.hicend.com.cn/gpimage/gppage.pdf
 Microstructure: Penny Jump: https://www.fmz.com/strategy/358
 Issue:stack:
 #0.():.
@@ -37,7 +39,7 @@ Detail:
 Web page backend: Add English interface, front and back end framework is completed, waiting for continuous update. Https://zhuanlan.zhihu.com/p/75805097
 Network pricing: developed with Boyang
 Other: The Ark was opened. . .
-#0.47(): Arbitrage is on the line, 0.5 by wave.
+#0.47(): Arbitrage, 0.5 by wave.
 
 Network pricing
 2019.07.27
@@ -60,7 +62,7 @@ Issue: The policy client and the transaction server are disconnected, the transa
 #0.45():.
 
 Front end interface
-![avatar](https://pic4.zhimg.com/80/v2-46b66f51169d17306e33d1de245780d7_hd.jpg）
+![avatar](https://pic4.zhimg.com/80/v2-46b66f51169d17306e33d1de245780d7_hd.jpg)
 2019.07.21
 
 #0.43 (Grid Strategy), (Network Pricing), (Optimized Convergence Curve), the process terminates the instant alarm, upgrades the server 4 core 4g again, (user settings file), status push 0.1.
