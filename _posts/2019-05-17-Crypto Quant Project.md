@@ -4,6 +4,7 @@ title: "Crypto Quant Journal 加密货币量化开发日志 "
 categories: Finance
 excerpt:
 ---
+![avatar](https://pic4.zhimg.com/80/v2-46b66f51169d17306e33d1de245780d7_hd.jpg)
 原文网址Origin：https://zhuanlan.zhihu.com/p/66181973
 
 Tobedone: Money Flow Analysis, Option Arbitrage, Options Strategy, High Frequency Probe, Market Status, Algorithmic Trading, Chip Analysis, Mining Cost, High Frequency Marketing, Wheeling Hysteresis Fit, Beta Hedging, Lyric Factor, Event Driven, Multi-factor combination, profit analysis (scatter plot).
