@@ -62,7 +62,9 @@ Issue: The policy client and the transaction server are disconnected, the transa
 #0.45():.
 
 Front end interface
-![avatar](https://pic4.zhimg.com/v2-46b66f51169d17306e33d1de245780d7_r.jpg)
+<center>
+<img src="https://pic4.zhimg.com/v2-46b66f51169d17306e33d1de245780d7_r.jpg" width="96%"/>
+</center>
 2019.07.21
 
 #0.43 (Grid Strategy), (Network Pricing), (Optimized Convergence Curve), the process terminates the instant alarm, upgrades the server 4 core 4g again, (user settings file), status push 0.1.
