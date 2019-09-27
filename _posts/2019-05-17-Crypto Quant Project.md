@@ -15,37 +15,38 @@ Issue:stack:
 
 
 #0. Event driven.
-Detail: https://medium.com/@xyshell/event-study-on-ignis-airdrop-2f7a93bb24f4
-off the shelf https://www.zhihu.com/column/p/57012933
+Detail: Airdrop: https://medium.com/@xyshell/event-study-on-ignis-airdrop-2f7a93bb24f4
+Off the markets: https://www.zhihu.com/column/p/57012933
 issue:stack:
 #0.() :.
 
 
 #0. High frequency.
-Detail: Market: https://www.htfc.com/wz_upload/png_upload/20181204/1543883952362f50e60.pdf http://blog.sina.com.cn/s/blog_8e6ab2610102v601.html http://www.hicend.com.cn/gpimage/gppage.pdf
+Detail: Market Making: https://www.htfc.com/wz_upload/png_upload/20181204/1543883952362f50e60.pdf http://blog.sina.com.cn/s/blog_8e6ab2610102v601.html http://www.hicend.com.cn/gpimage/gppage.pdf
 Microstructure: Penny Jump: https://www.fmz.com/strategy/358
 Issue:stack:
 #0.():.
 ————————————————————————————————————————
 
 2019.09.18
-
-#0.47 Arbitrage, 0.5 by wave.
+#0.47 Arbitrage, Momentum 0.5.
 Detail:
 #0.48():.
+
 2019.08.23
-
-#0.46 Web backend, (grid strategy), network pricing.
+#0.46 Web Backend, (Grid Strategy), Network Pricing.
 Detail:
-Web page backend: Add English interface, front and back end framework is completed, waiting for continuous update. Https://zhuanlan.zhihu.com/p/75805097
+Web Page Backend: Add English interface, front and back end framework is completed, waiting for continuous update. Https://zhuanlan.zhihu.com/p/75805097
 Network pricing: developed with Boyang
-Other: The Ark was opened. . .
+Stack: Flask Restful
 #0.47(): Arbitrage, 0.5 by wave.
-
 Network pricing
-2019.07.27
+<center>
+<img src="https://pic2.zhimg.com/v2-5989fc6597fa2587d2fcc7f6ae3be3f9_r.jpg" width="96%"/>
+</center>
 
-#0.45 (web backend), (server-to-server data transfer), (grid strategy), (network pricing), optimization convergence curve, genetic algorithm per generation statistical indicators, rpc multi-user, record a variety of data.
+2019.07.27
+#0.45 (Web Backend), (Server-To-Server Data Transfer), (Grid Strategy), (Network Pricing), Optimization Convergence Curve, Genetic Algorithm per generation statistical indicators, Rpc with multi-user, Record a variety of data.
 Detail:
 Casting the net 0.1:
 Web page backend: Data: https://min-api.cryptocompare.com/data/price?fsym=BTC&tsyms=USD
