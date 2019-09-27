@@ -4,6 +4,7 @@ title: "Crypto Quant Journal 加密货币量化开发日志 "
 categories: Finance
 excerpt:
 ---
+Developed by Yunnan Tao @ South Stone Association
 原文网址Origin：https://zhuanlan.zhihu.com/p/66181973
 
 Tobedone: Money Flow Analysis, Option Arbitrage, Options Strategy, High Frequency Probe, Market Status, Algorithmic Trading, Chip Analysis, Mining Cost, High Frequency Marketing, Hysteresis Research, Beta Hedging, Public Opinion Factor, Event Driven, Multi-factor portfolio, profit analysis (scatter plot).
