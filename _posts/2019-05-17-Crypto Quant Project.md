@@ -6,7 +6,7 @@ excerpt:
 ---
 原文网址Origin：https://zhuanlan.zhihu.com/p/66181973
 
-Tobedone: Money Flow Analysis, Option Arbitrage, Options Strategy, High Frequency Probe, Market Status, Algorithmic Trading, Chip Analysis, Mining Cost, High Frequency Marketing, Wheeling Hysteresis Fit, Beta Hedging, Lyric Factor, Event Driven, Multi-factor combination, profit analysis (scatter plot).
+Tobedone: Money Flow Analysis, Option Arbitrage, Options Strategy, High Frequency Probe, Market Status, Algorithmic Trading, Chip Analysis, Mining Cost, High Frequency Marketing, Hysteresis Research, Beta Hedging, Public Opinion Factor, Event Driven, Multi-factor portfolio, profit analysis (scatter plot).
 
 #0. Algorithmic trading.
 Detail: iceberg, reverse iceberg https://daily.zhihu.com/story/4081702
@@ -15,7 +15,8 @@ Issue:stack:
 
 
 #0. Event driven.
-Detail: https://medium.com/@xyshell/event-study-on-ignis-airdrop-2f7a93bb24f4 off the shelf https://www.zhihu.com/column/p/57012933
+Detail: https://medium.com/@xyshell/event-study-on-ignis-airdrop-2f7a93bb24f4
+off the shelf https://www.zhihu.com/column/p/57012933
 issue:stack:
 #0.() :.
 
