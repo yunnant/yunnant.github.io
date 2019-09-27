@@ -62,7 +62,6 @@ Multi-user: http://www.vnpie.com/forum.php?mod=viewthread&tid=2017
 Front end: https://zhuanlan.zhihu.com/p/27809706
 Issue: The policy client and the transaction server are disconnected, the transaction server is abnormal, and the network security is: the webpage data is transmitted in one direction, and the user account password is encrypted. Stack:vue,Flask,Django,rpc
 #0.45():.
-
 Front end interface
 <center>
 <img src="https://pic4.zhimg.com/v2-46b66f51169d17306e33d1de245780d7_r.jpg" width="96%"/>
@@ -104,14 +103,13 @@ Detail: Wave-by-wave tread 0.3:second class, increase the variable, increase the
 #0.41(): Money flow analysis, social network pricing, sentiment index factor. Issue:stack:
 
 2019.06.29
-
 #0.35 Documentary strategy; Big Wave head 0.21; multi-user environment update.
 Detail: Wave-by-wave tread 0.1: two directions, detection and calculation. High frequency http://www.vnpie.com/forum.php?mod=viewthread&tid=2815 http://www.vnpie.com/forum.php?mod=viewthread&tid=1445 The difference in server location is true More, the value of the flower
         Big wave head 0.21: Start immediately, increase the interval parameter, state push.
         Segmetation fault, api error message https://www.fmz.com/bbs-topic/597; sqlite3 -csv -header database.db "select * from dbtickdata" > stat.csv;
 #0.36(0630): The follow-up strategy is online. Issue:rest/websocket stack:
-2019.06.25
 
+2019.06.25
 #0.33 Arbitrage strategy developing with Bo Yang, data source update.
 Detail: current data source: vnpy record, coinapi.io, cryptocompare, 1token (https://1token.trade/docs#/hist-quote/historical-data?id=%e5%8e%86%e5%8f%b2candle %e6%95%b0%e6%8d%ae)
 The platform price difference is more than 0.1: https://zhuanlan.zhihu.com/p/20090944 (super classic article); https://www.jianshu.com/p/735f2504c749; https://blog.csdn.net /weQuarter/article/details/76096239, disadvantages: less opportunities. Need to develop interfaces and find opportunities.
