@@ -5,55 +5,56 @@ categories: Finance
 excerpt:
 ---
 Developed by Yunnan Tao @ South Stone Association
+<br>
 原文网址Origin：https://zhuanlan.zhihu.com/p/66181973
 
 Tobedone: Money Flow Analysis, Option Arbitrage, Options Strategy, High Frequency Probe, Market Status, Algorithmic Trading, Chip Analysis, Mining Cost, High Frequency Marketing, Hysteresis Research, Beta Hedging, Public Opinion Factor, Event Driven, Multi-factor portfolio, profit analysis (scatter plot).
 
-#0. Algorithmic trading.
-Detail: iceberg, reverse iceberg https://daily.zhihu.com/story/4081702
-Issue:stack:
+#0. Algorithmic trading.<br>
+Detail: iceberg, reverse iceberg https://daily.zhihu.com/story/4081702<br>
+Issue:stack:<br>
 #0.():.
 
 
-#0. Event driven.
-Detail: Airdrop: https://medium.com/@xyshell/event-study-on-ignis-airdrop-2f7a93bb24f4
-Off the markets: https://www.zhihu.com/column/p/57012933
-issue:stack:
+#0. Event driven.<br>
+Detail: Airdrop: https://medium.com/@xyshell/event-study-on-ignis-airdrop-2f7a93bb24f4<br>
+Off the markets: https://www.zhihu.com/column/p/57012933<br>
+issue:stack:<br>
 #0.() :.
 
 
-#0. High frequency.
-Detail: Market Making: https://www.htfc.com/wz_upload/png_upload/20181204/1543883952362f50e60.pdf http://blog.sina.com.cn/s/blog_8e6ab2610102v601.html http://www.hicend.com.cn/gpimage/gppage.pdf
-Microstructure: Penny Jump: https://www.fmz.com/strategy/358
-Issue:stack:
+#0. High frequency.<br>
+Detail: Market Making: https://www.htfc.com/wz_upload/png_upload/20181204/1543883952362f50e60.pdf http://blog.sina.com.cn/s/blog_8e6ab2610102v601.html http://www.hicend.com.cn/gpimage/gppage.pdf<br>
+Microstructure: Penny Jump: https://www.fmz.com/strategy/358<br>
+Issue:stack:<br>
 #0.():.
 ————————————————————————————————————————
 
-2019.09.18
-#0.47 Arbitrage, Momentum 0.5.
-Detail:
+2019.09.18<br>
+#0.47 Arbitrage, Momentum 0.5.<br>
+Detail:<br>
 #0.48():.
 
-2019.08.23
-#0.46 Web Backend, (Grid Strategy), Network Pricing.
-Detail:
+2019.08.23<br>
+#0.46 Web Backend, (Grid Strategy), Network Pricing.<br>
+Detail:<br>
 Web Page Backend: Add English interface, front and back end framework is completed, waiting for continuous update. Https://zhuanlan.zhihu.com/p/75805097
-Network pricing: developed with Boyang
-Stack: Flask Restful
-#0.47(): Arbitrage, Momentum 0.5 .
-Network Pricing
+Network pricing: developed with Boyang<br>
+Stack: Flask Restful<br>
+#0.47(): Arbitrage, Momentum 0.5 .<br>
+Network Pricing<br>
 <center>
 <img src="https://pic2.zhimg.com/v2-5989fc6597fa2587d2fcc7f6ae3be3f9_r.jpg" width="96%"/>
 </center>
 
-2019.07.27
-#0.45 (Web Backend), (Server-To-Server Data Transfer), (Grid Strategy), (Network Pricing), Optimization Convergence Curve, Genetic Algorithm per generation statistical indicators, Rpc with multi-user, Record a variety of data.
-Detail:
-Casting the net 0.1:
+2019.07.27<br>
+#0.45 (Web Backend), (Server-To-Server Data Transfer), (Grid Strategy), (Network Pricing), Optimization Convergence Curve, Genetic Algorithm per generation statistical indicators, Rpc with multi-user, Record a variety of data.<br>
+Detail:<br>
+Casting the net 0.1:<br>
 Web page backend: Data: https://min-api.cryptocompare.com/data/price?fsym=BTC&tsyms=USD
-Other: Strategy Development https://www.jianshu.com/u/KWYc3d https://v.jfz.com/detail-23494.html
-Sql:http://www.runoob.com/mysql/mysql-drop-tables.html On_query for each interface is written to the database
-Issue:stack: Multi-page Django Mysql
+Other: Strategy Development https://www.jianshu.com/u/KWYc3d https://v.jfz.com/detail-23494.html<br>
+Sql:http://www.runoob.com/mysql/mysql-drop-tables.html On_query for each interface is written to the database<br>
+Issue:stack: Multi-page Django Mysql<br>
 #0.46():.
 
 2019.07.24
