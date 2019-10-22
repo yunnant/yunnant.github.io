@@ -27,7 +27,7 @@ issue:stack:<br>
 Detail: Market Making: https://www.htfc.com/wz_upload/png_upload/20181204/1543883952362f50e60.pdf http://blog.sina.com.cn/s/blog_8e6ab2610102v601.html http://www.hicend.com.cn/gpimage/gppage.pdf<br>
 Microstructure: Penny Jump: https://www.fmz.com/strategy/358<br>
 Issue:stack:<br>
-#0.():.
+#0.():.<br>
 ————————————————————————————————————————
 
 2019.09.18<br>
@@ -37,8 +37,11 @@ Momentum 0.5: Momentum Strategy in seconds.<br>
 Arbitrage: cross-market arbitrage https://www.vnpy.com/forum/topic/1487-vnpyxin-ban-jie-chai-jiao-yi-mo-kuai-xue-xi-zong-jie<br>
 Website: permission and right for multi-user<br>
 Other: clear port kill -9 $(lsof -i tcp:process number -t) sync_data(). The variable list is updated by "self.put_event()" to CTA UI<br>
-#0.48(): Capital flow, enhanced turtles, management side.<br>
-
+#0.48(): Capital flow, enhanced turtles, Web.<br>
+<center>
+<img src="https://pic4.zhimg.com/v2-aa211394b7f261f68f6f31a185d5a8f7_r.jpg" width="96%"/>
+</center>
+<br>
 
 2019.08.23<br>
 #0.46 Web Backend, (Grid Strategy), Network Pricing.<br>
