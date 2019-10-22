@@ -8,7 +8,7 @@ Developed by Yunnan Tao @ South Stone Association
 <br>
 原文网址Origin：https://zhuanlan.zhihu.com/p/66181973
 
-Tobedone: Money Flow Analysis, Option Arbitrage, Options Strategy, High Frequency Probe, Market Status, Algorithmic Trading, Chip Analysis, Mining Cost, High Frequency Marketing, Hysteresis Research, Beta Hedging, Public Opinion Factor, Event Driven, Multi-factor portfolio, profit analysis (scatter plot).
+Tobedone: Capital Flow Analysis, Option Arbitrage, Options Strategy, High Frequency Probe, Market Status, Algorithmic Trading, Chip Analysis, Mining Cost, High Frequency Marketing, Hysteresis Research, Beta Hedging, Public Opinion Factor, Event Driven, Multi-factor portfolio, profit analysis (scatter plot).
 
 #0. Algorithmic trading.<br>
 Detail: iceberg, reverse iceberg https://daily.zhihu.com/story/4081702<br>
@@ -31,17 +31,22 @@ Issue:stack:<br>
 ————————————————————————————————————————
 
 2019.09.18<br>
-#0.47 Arbitrage, Momentum 0.5.<br>
+#0.47 Arbitrage, Momentum 0.5, Website.<br>
 Detail:<br>
-#0.48():.
+Momentum 0.5: Momentum Strategy in seconds.<br>
+Arbitrage: cross-market arbitrage https://www.vnpy.com/forum/topic/1487-vnpyxin-ban-jie-chai-jiao-yi-mo-kuai-xue-xi-zong-jie<br>
+Website: permission and right for multi-user<br>
+Other: clear port kill -9 $(lsof -i tcp:process number -t) sync_data(). The variable list is updated by "self.put_event()" to CTA UI<br>
+#0.48(): Capital flow, enhanced turtles, management side.<br>
+
 
 2019.08.23<br>
 #0.46 Web Backend, (Grid Strategy), Network Pricing.<br>
 Detail:<br>
-Web Page Backend: Add English interface, front and back end framework is completed, waiting for continuous update. Https://zhuanlan.zhihu.com/p/75805097
+Web Page Backend: Add English interface, front and back end framework is completed, waiting for continuous update. https://zhuanlan.zhihu.com/p/75805097
 Network pricing: developed with Boyang<br>
 Stack: Flask Restful<br>
-#0.47(): Arbitrage, Momentum 0.5 .<br>
+#0.47(): Arbitrage, Momentum 0.5.<br>
 Network Pricing<br>
 <center>
 <img src="https://pic2.zhimg.com/v2-5989fc6597fa2587d2fcc7f6ae3be3f9_r.jpg" width="96%"/>
@@ -53,7 +58,7 @@ Detail:<br>
 Casting the net 0.1:<br>
 Web page backend: Data: https://min-api.cryptocompare.com/data/price?fsym=BTC&tsyms=USD
 Other: Strategy Development https://www.jianshu.com/u/KWYc3d https://v.jfz.com/detail-23494.html<br>
-Sql:http://www.runoob.com/mysql/mysql-drop-tables.html On_query for each interface is written to the database<br>
+Sql: http://www.runoob.com/mysql/mysql-drop-tables.html On_query for each interface is written to the database<br>
 Issue:stack: Multi-page Django Mysql<br>
 #0.46():.
 
