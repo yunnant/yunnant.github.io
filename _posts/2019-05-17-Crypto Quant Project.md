@@ -38,6 +38,7 @@ Arbitrage: cross-market arbitrage https://www.vnpy.com/forum/topic/1487-vnpyxin-
 Website: permission and right for multi-user<br>
 Other: clear port kill -9 $(lsof -i tcp:process number -t) sync_data(). The variable list is updated by "self.put_event()" to CTA UI<br>
 #0.48(): Capital flow, enhanced turtles, Web.<br>
+Momentum 0.5<br>
 <center>
 <img src="https://pic4.zhimg.com/v2-aa211394b7f261f68f6f31a185d5a8f7_r.jpg" width="96%"/>
 </center>
@@ -61,16 +62,16 @@ Detail:<br>
 Casting the net 0.1:<br>
 Web page backend: Data: https://min-api.cryptocompare.com/data/price?fsym=BTC&tsyms=USD
 Other: Strategy Development https://www.jianshu.com/u/KWYc3d https://v.jfz.com/detail-23494.html<br>
-Sql: http://www.runoob.com/mysql/mysql-drop-tables.html On_query for each interface is written to the database<br>
+Sql: http://www.runoob.com/mysql/mysql-drop-tables.html On_query for each account is written to the database<br>
 Issue:stack: Multi-page Django Mysql<br>
 #0.46():.
 
 2019.07.24<br>
-#0.44 (Grid Strategy), (Network Pricing), (Optimized Convergence Curve), Multi-User Related Files, Front-End Console Design, (Genetic Algorithms for Each Generation of Statistical Indicators), rpc Server.<br>
+#0.44 (Grid Strategy), (Network Pricing), (Optimized Convergence Curve), Multi-User Related Files, Front-End Console Design, (Statistical Indicators for Each Generation of Genetic Algorithms), rpc Server.<br>
 Detail:<br>
 Multi-user: http://www.vnpie.com/forum.php?mod=viewthread&tid=2017<br>
 Front end: https://zhuanlan.zhihu.com/p/27809706<br>
-Issue: The policy client and the transaction server are disconnected, the transaction server is abnormal, and the network security is: the webpage data is transmitted in one direction, and the user account password is encrypted. <br>
+Issue: What if the client and the trading server are disconnected, what if the trading server is abnormal, and the network security: transmitting the data in one direction, and encrypting the user account and password . <br>
 Stack:vue,Flask,Django,rpc<br>
 #0.45():.<br>
 Front end interface<br>
@@ -79,29 +80,29 @@ Front end interface<br>
 </center>
 <br>
 2019.07.21<br>
-#0.43 (Grid Strategy), (Network Pricing), (Optimized Convergence Curve), the process terminates the instant alarm, upgrades the server 4 core 4g again, (user settings file), status push 0.1.<br>
+#0.43 (Grid Strategy), (Network Pricing), (Optimized Convergence Curve), alarm when the process terminates , upgrades the server to 4 core 4g again, (user settings file), status push 0.1.<br>
 Detail:<br>
-  Grid: https://www.fmz.com/bbs-topic/674 https://www.fmz.com/bbs-topic/182 Hedging Grid https://www.fmz.com/bbs-topic/ 718 https://www.fmz.com/bbs-topic/657 Trend Grid Hedge Grid Market https://zhuanlan.zhihu.com/p/34400090 Grid Market https://zhuanlan.zhihu.com /p/35170854<br>
-  Wanglou 0.1: current running time, current running strategy.<br>
+  Grid: https://www.fmz.com/bbs-topic/674 https://www.fmz.com/bbs-topic/182 Hedging Grid https://www.fmz.com/bbs-topic/718 https://www.fmz.com/bbs-topic/657 Trend Grid Hedge Grid Market https://zhuanlan.zhihu.com/p/34400090 Grid Market https://zhuanlan.zhihu.com /p/35170854<br>
+  Watch 0.1: current running time, current running strategy.<br>
   Optimization Curve: https://deap.readthedocs.io/en/master/tutorials/basic/part3.html<br>
 Issue:stack:<br>
-Other: Full Market Commission https://data.bitcoinity.org/markets/books/USD<br>
+Other: Full Market Order Book https://data.bitcoinity.org/markets/books/USD<br>
 #0.44():.
 
 2019.07.16<br>
 #0.42 (Funding Flow Analysis), (Network Pricing), (Drawing Optimization Convergence Curve), Strategy Daily Profit and Loss Report.<br>
 Detail: Network Pricing: https://www.blockchain.com/charts/n-unique-addresses<br>
-Avoid Over-optimization: Large sample Inside and outside the sample Large number of parameters Number of parameters Detecting near optimal parameters Porting other products Regularization<br>
+Avoid Over-optimization: Large Backtesting sample from Inside and outside of the optimized sample, Large number of transcation, Number of parameters, Detecting near optimal parameters, Transplant to other assets, Regularization<br>
 Issue:Stack:<br>
 #0.43() Grid Strategy:.
 
 2019.07.14<br>
-#0.41 (fund flow analysis), (network pricing), sentiment index factor, under tick data.<br>
+#0.41 (Capital Flow analysis), (network pricing), Emotion index factor, under tick data.<br>
 Detail: Network pricing: https://www.chainnews.com/articles/187926866705.htm https://zh-cn.coinnewstelegraph.com/bitcoin-pricing-models-part-iii-bitcoin-usd-cryptocurrencybtc-usd/ Https://zhuanlan.zhihu.com/p/42085333 https://36kr.com/p/5136787<br>
 Other: classic strategy https://www.fmz.com/bbs-topic/50<br>
-Policy Encryption https://www.vnpy.com/forum/topic/72-vnpyce-lue-jia-mi-jiao-cheng<br>
+Strategy Encryption https://www.vnpy.com/forum/topic/72-vnpyce-lue-jia-mi-jiao-cheng<br>
 Logger.info, set proxy<br>
-Issue:sock, proxy, delegate decimal point (modify utility.roundto), multiple drawdowns.<br> Stack:<br>
+Issue:sock, proxy, delegate decimal point (modify "utility.roundto"), duplicate orders.<br> Stack:<br>
 #0.42(): High frequency marketing.<br>
 Emotional index and bitcoin price<br>
 <center>
@@ -109,32 +110,32 @@ Emotional index and bitcoin price<br>
 </center>
 <br>
 2019.07.08<br>
-#0.40 The order is on the line. (It seems to go nowhere, shelving, power index)<br>
-Detail: Wave-by-wave tread 0.3:second class, increase the variable, increase the tick-level backtest interface function (engine, widget, engine, base).<br>
-#0.41(): Money flow analysis, social network pricing, sentiment index factor. Issue:stack:<br>
+#0.40 Momemtum on-line. (It seems to go nowhere, shelving, power index(rate of change roc))<br>
+Detail: Momemtum 0.3:second and minute class, increase numbers of variable, add the tick-level backtest interface function (engine, widget, engine, base).<br>
+#0.41(): Capital flow analysis, social network pricing, emotion index factor. Issue:stack:<br>
 
 2019.06.29<br>
-#0.35 Documentary strategy; Big Wave head 0.21; multi-user environment update.<br>
-Detail: Wave-by-wave tread 0.1: two directions, detection and calculation. High frequency http://www.vnpie.com/forum.php?mod=viewthread&tid=2815 http://www.vnpie.com/forum.php?mod=viewthread&tid=1445 The difference in server location is true More, the value of the flower
-        Big wave head 0.21: Start immediately, increase the interval parameter, state push.
+#0.35 Momemtum strategy; Turtle 0.21; multi-user environment update.<br>
+Detail: momemtum 0.1: two directions, detection and calculation. High frequency http://www.vnpie.com/forum.php?mod=viewthread&tid=2815 http://www.vnpie.com/forum.php?mod=viewthread&tid=1445
+        Turtle head 0.21: Start immediately, increase the interval parameter, status push.
         Segmetation fault, api error message https://www.fmz.com/bbs-topic/597; sqlite3 -csv -header database.db "select * from dbtickdata" > stat.csv;<br>
-#0.36(0630): The follow-up strategy is online. Issue:rest/websocket stack:
+#0.36(0630): The momemtum strategy online. Issue:rest/websocket stack:
 
 2019.06.25<br>
 #0.33 Arbitrage strategy developing with Bo Yang, data source update.<br>
 Detail: current data source: vnpy record, coinapi.io, cryptocompare, 1token (https://1token.trade/docs#/hist-quote/historical-data?id=%e5%8e%86%e5%8f%b2candle %e6%95%b0%e6%8d%ae)
-The platform price difference is more than 0.1: https://zhuanlan.zhihu.com/p/20090944 (super classic article); https://www.jianshu.com/p/735f2504c749; https://blog.csdn.net /weQuarter/article/details/76096239, disadvantages: less opportunities. Need to develop interfaces and find opportunities.
+Arbitrage 0.1: https://zhuanlan.zhihu.com/p/20090944 (super classic article); https://www.jianshu.com/p/735f2504c749; https://blog.csdn.net/weQuarter/article/details/76096239, disadvantages: less opportunities. Need to develop interfaces and find opportunities.
 Inter-temporal arbitrage, arbitrage for the period, accumulated over the years 0.1: https://zhuanlan.zhihu.com/p/39236374; https://www.chainnode.com/post/43382 Advantages: Leverage, attention: inter-period Arbitrage needs to judge the basis trend has a higher risk, and needs to conduct a stationarity test; https://www.zhihu.com/question/38359735 https://www.joinquant.com/view/community/detail/724d837f8cc7cb1bb839a71edb84b515
-Variety arbitrage: http://blog.sina.com.cn/s/blog_5008d72e0102vwtk.html<br>
+Different asset arbitrage: http://blog.sina.com.cn/s/blog_5008d72e0102vwtk.html<br>
 #0.34(0630): Arbitrage on-line real. Issue:stack:<br>
-Spread of a certain two products<br>
+Spread of certain two products<br>
 <center>
 <img src="https://pic4.zhimg.com/v2-cccf2944c56f2cb0438ffb81e6d58a7f_r.jpg" width="96%"/>
 </center>
 <br>
 2019.06.19<br>
-#0.32 The turtle is on the line.<br>
-Detail: The original sin of the gods is not bad. . Code analysis https://blog.csdn.net/IAlexanderI/article/details/81457853; http://101.132.65.227/?cat=3; high frequency is a bit difficult; https://www.vnpy.com/forum/ Topic/16-vnpyde-si-wei-dao-tu-jia-gou architecture diagram<br>
+#0.32 The turtle is on-line.<br>
+Detail: Code analysis https://blog.csdn.net/IAlexanderI/article/details/81457853; http://101.132.65.227/?cat=3; high frequency is a bit difficult; https://www.vnpy.com/forum/ Topic/16-vnpyde-si-wei-dao-tu-jia-gou architecture diagram<br>
 #0.33(0625): Spread strategy, capital flow analysis. Issue:stack:<br>
 
 Most of the above subsequent logs are strategic modeling and programming implementation, and if interested, you can contact me.
