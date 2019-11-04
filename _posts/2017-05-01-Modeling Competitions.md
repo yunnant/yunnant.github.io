@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "本科研究生建模竞赛 Undergraduate and Graduate Modeling Compet 本科研究生建模竞赛tions"
+title: "Undergraduate and Graduate Modeling Compettions 本科研究生建模竞赛"
 categories: Competition
 excerpt: This is the summary of the competitions I attendt during my undergraduate and graduate degree.
 ---
