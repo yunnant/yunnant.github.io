@@ -68,4 +68,4 @@ Collected data, established models to describe the supply and demand of taxis in
 
 Stack: Matlab, Web Crawler, Big Data, Data Analysis, Data Visualization.<br>
 
-<a href="https://ibb.co/LJF5gWQ"><img src="https://i.ibb.co/BrpN6x4/filename-1.gif" alt="filename-1" border="0"></a>
+<a href="https://ibb.co/TgjKnFs"><img src="https://i.ibb.co/XC0ydvq/image.png" alt="image" border="0"></a>
