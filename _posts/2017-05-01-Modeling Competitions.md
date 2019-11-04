@@ -37,7 +37,14 @@ In our third model, we perfect the queuing and cellular automata models by takin
 <br>
 
 Advisor, Second Prize, Asia and Pacific Mathematical Contest in Modeling<br>
+Stack: Data Analysis, Web Crawler, Python, Analytic Hierarchy Process.<br>
 
 S Prize-2016 COMAP's Interdisciplinary Contest in Modeling<br>
+Used the Portfolio Theory model, through the modeling of income and risk, optimized the quotas for each US university funding and gave advice on funding.<br>
+
+Stack: Big Data, Portfolio Theory, Data Analysis, Matlab, Genetic algorithm.<br>
 
 National 2nd Place & Provincial 1st Place, Mathematical Contest in Modeling<br>
+Collected data, established models to describe the supply and demand of taxis in different time and space, and proposed a new subsidy policy.<br>
+
+Stack: Matlab, Web Crawler, Big Data, Data Analysis, Data Visualization.<br>
