@@ -38,7 +38,7 @@ In question four, we first simplify the model, regardless of the vertical height
 <a href="https://ibb.co/0Z707tX"><img src="https://i.ibb.co/d6TNTgc/2019-11-04-1-08-52.png" alt="2019-11-04-1-08-52" border="0"></a>
 <br>
 
-S prize - 2017 COMAP's Mathematical Contest in Modeling (MCM)<br>
+S prize-2017 COMAP's Mathematical Contest in Modeling (MCM)<br>
 
 Optimization of fan-in toll plaza design<br>
 
@@ -62,8 +62,10 @@ Used the Portfolio Theory model, through the modeling of income and risk, optimi
 
 Stack: Big Data, Portfolio Theory, Data Analysis, Matlab, Genetic algorithm.<br>
 
-National 2nd Place & Provincial 1st Place, Mathematical Contest in Modeling<br>
+2015-National 2nd Place & Provincial 1st Place, Mathematical Contest in Modeling<br>
 
 Collected data, established models to describe the supply and demand of taxis in different time and space, and proposed a new subsidy policy.<br>
 
 Stack: Matlab, Web Crawler, Big Data, Data Analysis, Data Visualization.<br>
+
+<a href="https://ibb.co/LJF5gWQ"><img src="https://i.ibb.co/BrpN6x4/filename-1.gif" alt="filename-1" border="0"></a>
