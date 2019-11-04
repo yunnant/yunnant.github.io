@@ -22,3 +22,22 @@ In question four, we first simplify the model, regardless of the vertical height
 问题四中，我们先对模型进行简化，不考虑垂直高度，只在平面进行优化计 算。对于此问题，即可以转换为用最少的 3000m 半径的圆去覆盖所有的地面终端， 这些圆的圆心就是 3 架飞机需要到达的位置。结果即问题三中覆盖到点的圆。在每个位置，飞机需持续一段时间进行数据传输，根据图 13，实际情况不会达到 10 个用户上限。传输功率分配，我们使得在覆盖区域内所有点的传输都同时完 成，这样即是最省时间的分配方案。<br>
 
 <a href="https://ibb.co/CJPnW7r"><img src="https://i.ibb.co/RhjC705/2019-11-04-12-58-34.png" alt="2019-11-04-12-58-34" border="0"></a>
+<br>
+<a href="https://ibb.co/0Z707tX"><img src="https://i.ibb.co/d6TNTgc/2019-11-04-1-08-52.png" alt="2019-11-04-1-08-52" border="0"></a>
+<br>
+
+S prize - 2017 COMAP's Mathematical Contest in Modeling (MCM)<br>
+Optimization of fan-in toll plaza design<br>
+Summary<br>
+
+We use queuing theory and cellular automata to simulate the traffic across the fan - in area of a barrier toll ,aiming at finding the balance between throughput (number of vehicles per hour passing the point where the end of the plaza joins the outgoing traffic lanes) maximization and cost (land and road construction are expensive) minimization to ensure our long term benefits. Set traffic is Poisson flow, simplifying the fan-in area as a M/M/L/B model. As the independent variable and dependent variable in the model is positive correlated, we use data envelopment analysis (DEA) CCR model to find out the optimal design, and know the number of B, L and corresponding cost, as well as the size of the fan-in area.<br>
+But the conclusion of queuing theory model tells us that the specific shape of the trapezoidal area does not affect traffic throughput, this does not accord with our experience of life obviously. So, we determine a suitable random slowing rate by referring to the proportion of self-driving cars, together with the parameters got from the queuing model, put into the cellular automata to explore the optimal merge pattern. The results show that when the pattern is “merger on both side”, the shorter average through time is, the larger throughput is. But due to the existing of interaction and the random slowing of vehicles, the shortest through time is still longer than the queuing theory’s optimal through time, so it is necessary to add releasing value to the height of the trapezoidal fan-in area, or when the system facing of heavy traffic or accidents, road blocks.<br>
+In our third model, we perfect the queuing and cellular automata models by taking into consideration the effect of tollbooths’ service efficiency as M/M/B. When you alter the proportions of conventional (human-staffed) tollbooths, exact-change (automated) tollbooths, and electronic toll collection booths (such as electronic toll collection via a transponder in the vehicle), tollbooths’ service efficiency change and we could get a new sets of optimal designs.<br>
+<a href="https://ibb.co/4VNn4yB"><img src="https://i.ibb.co/gRgLt1s/2019-11-04-1-12-33.png" alt="2019-11-04-1-12-33" border="0"></a>
+<br>
+
+Advisor, Second Prize, Asia and Pacific Mathematical Contest in Modeling<br>
+
+S Prize-2016 COMAP's Interdisciplinary Contest in Modeling<br>
+
+National 2nd Place & Provincial 1st Place, Mathematical Contest in Modeling<br>
