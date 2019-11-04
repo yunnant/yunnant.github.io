@@ -6,7 +6,7 @@ excerpt: This is the summary of the competitions I attendt during my undergradua
 ---
 <a href="https://ibb.co/2PTpCXM"><img src="https://i.ibb.co/gwxcfsW/2019-11-04-1-27-52.png" alt="2019-11-04-1-27-52" border="0"></a>
 
-"Huawei Cup" 14th China Graduate Mathematical Modeling Contest
+<b>"Huawei Cup" 14th China Graduate Mathematical Modeling Contest<b>
 
 "The optimal use of drones in disaster relief"<br>
 
