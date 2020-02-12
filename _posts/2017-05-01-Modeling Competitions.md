@@ -2,7 +2,7 @@
 layout: post
 title: "Undergraduate and Graduate Modeling Compettions 本科研究生建模竞赛"
 categories: Competition
-excerpt: This is the summary of the competitions I attendt during my undergraduate and graduate degree.
+excerpt: This is the summary of the competitions I participated during my undergraduate and graduate degree.
 ---
 <a href="https://ibb.co/2PTpCXM"><img src="https://i.ibb.co/gwxcfsW/2019-11-04-1-27-52.png" alt="2019-11-04-1-27-52" border="0"></a>
 
