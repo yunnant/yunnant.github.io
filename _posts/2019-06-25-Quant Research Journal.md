@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Crypto Quant Journal 加密货币量化开发日志 "
+title: "Quant Research Journal 加密货币量化开发日志 "
 categories: Finance
 excerpt:
 
