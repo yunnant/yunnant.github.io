@@ -1,3 +1,10 @@
+layout: post
+title: "Quant  Research Journal 量化研究日志 "
+categories: Finance
+excerpt:
+
+---
+
 Tobedone: Bond factor analysis: AQR: Style investing in fixed income; "Know When to Hodl'Em, Know When to Fodl'Em": An Investigation of Factor Based Investing in the Cryptocurrency Space; Ruey S. Tsay's "Financial Time Series "Analysis" micro market "Pairs Trading-Quantitative Methods and Analysis"
 
 Some resources, information comes from the network, invading and deleting.
