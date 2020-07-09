@@ -6,7 +6,7 @@ excerpt:
 
 ---
 
-原文网址Origin：https://zhuanlan.zhihu.com/p/68299872
+原文网址Origin：[知乎](https://zhuanlan.zhihu.com/p/68299872)
 
 Tobedone: Bond factor analysis: AQR: Style investing in fixed income; "Know When to Hodl'Em, Know When to Fodl'Em": An Investigation of Factor Based Investing in the Cryptocurrency Space; Ruey S. Tsay's "Financial Time Series "Analysis" micro market "Pairs Trading-Quantitative Methods and Analysis"
 
