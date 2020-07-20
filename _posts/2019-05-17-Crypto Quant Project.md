@@ -111,7 +111,7 @@ Issue:sock, proxy, delegate decimal point (modify "utility.roundto"), duplicate 
 #0.42(): High frequency marketing.<br>
 Emotional index and bitcoin price<br>
 <center>
-<img src="https://i.ibb.co/MS0bnB5/4.jpg" width="96%"/>
+<img src="https://i.ibb.co/6WN6ZPm/4.jpg" width="96%"/>
 </center>
 
 <br>
