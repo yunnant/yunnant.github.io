@@ -225,8 +225,9 @@ Setup.py install; bash install.sh; https://www.zhihu.com/question/265468047<br>
 
 #0.2(0520): Automated acquisition of cleaning backtest data script; market record. Issue: The exchange is loaded. Stack:mongodb<br>
 <center>
-<img src="https://pic2.zhimg.com/v2-47925bb835e8398653d505d02d50b05d_r.jpg" width="96%"/>
+<img src="https://i.ibb.co/cwQDX0c/12.jpg" width="96%"/>
 </center>
+
 <br>
 2019.05.16<br>
 #0.0 In April, I got the start of the market, but the manual operation of one month was too tiring, and it was difficult to completely avoid negative emotions. Vnpy also updated version 2.0, so I finally decided to toss a quantitative platform.<br>
