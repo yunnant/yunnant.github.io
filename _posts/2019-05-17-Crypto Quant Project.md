@@ -40,8 +40,9 @@ Other: clear port kill -9 $(lsof -i tcp:process number -t) sync_data(). The vari
 #0.48(): Capital flow, enhanced turtles, Web.<br>
 Momentum 0.5<br>
 <center>
-<img src="https://pic4.zhimg.com/v2-aa211394b7f261f68f6f31a185d5a8f7_r.jpg" width="96%"/>
+<img src="https://i.ibb.co/xm1qNgZ/1.jpg" width="96%"/>
 </center>
+
 
 <br>
 
@@ -51,11 +52,13 @@ Detail:<br>
 Web Page Backend: Add English interface, front and back end framework is completed, waiting for continuous update. https://zhuanlan.zhihu.com/p/75805097
 Network pricing: developed with Boyang<br>
 Stack: Flask Restful<br>
+
 #0.47(): Arbitrage, Momentum 0.5.<br>
 Network Pricing<br>
 <center>
-<img src="https://pic2.zhimg.com/v2-5989fc6597fa2587d2fcc7f6ae3be3f9_r.jpg" width="96%"/>
+<img src="https://i.ibb.co/d0BXSzc/2.jpg" width="96%"/>
 </center>
+
 <br>
 2019.07.27<br>
 #0.45 (Web Backend), (Server-To-Server Data Transfer), (Grid Strategy), (Network Pricing), Optimization Convergence Curve, Genetic Algorithm per generation statistical indicators, Rpc with multi-user, Record a variety of data.<br>
@@ -77,8 +80,9 @@ Stack:vue,Flask,Django,rpc<br>
 #0.45():.<br>
 Front end interface<br>
 <center>
-<img src="https://pic4.zhimg.com/v2-46b66f51169d17306e33d1de245780d7_r.jpg" width="96%"/>
+<img src="https://i.ibb.co/MS0bnB5/3.jpg" width="96%"/>
 </center>
+
 <br>
 2019.07.21<br>
 #0.43 (Grid Strategy), (Network Pricing), (Optimized Convergence Curve), alarm when the process terminates , upgrades the server to 4 core 4g again, (user settings file), status push 0.1.<br>
@@ -107,8 +111,9 @@ Issue:sock, proxy, delegate decimal point (modify "utility.roundto"), duplicate 
 #0.42(): High frequency marketing.<br>
 Emotional index and bitcoin price<br>
 <center>
-<img src="https://pic4.zhimg.com/v2-6048abda5e51973d7e7dbd31a683f17b_r.jpg" width="96%"/>
+<img src="https://i.ibb.co/MS0bnB5/4.jpg" width="96%"/>
 </center>
+
 <br>
 2019.07.08<br>
 #0.40 Momemtum on-line. (It seems to go nowhere, shelving, power index(rate of change roc))<br>
@@ -131,10 +136,12 @@ Different asset arbitrage: http://blog.sina.com.cn/s/blog_5008d72e0102vwtk.html<
 #0.34(0630): Arbitrage on-line real. Issue:stack:<br>
 Spread of certain two products<br>
 <center>
-<img src="https://pic4.zhimg.com/v2-cccf2944c56f2cb0438ffb81e6d58a7f_r.jpg" width="96%"/>
+<img src="https://i.ibb.co/pn6qKKc/6.jpg" width="96%"/>
 </center>
+
 <br>
 2019.06.19<br>
+
 #0.32 The turtle is on-line.<br>
 Detail: Code analysis https://blog.csdn.net/IAlexanderI/article/details/81457853; http://101.132.65.227/?cat=3; high frequency is a bit difficult; https://www.vnpy.com/forum/ Topic/16-vnpyde-si-wei-dao-tu-jia-gou architecture diagram<br>
 #0.33(0625): Spread strategy, capital flow analysis. Issue:stack:<br>
@@ -152,8 +159,9 @@ Detail: https://www.vnpy.com/user/KeKe/topics?page=2<br>
 Detail: resolution xrandr -s 1280x1024_60.02; swapon /mnt/swap;echo 10 >/proc/sys/vm/swappiness;bitmex overloadhttps://www.vnpy.com/forum/topic/147-hai-gui- Ce-lue-jiao-yi-bitmexde-xbtusdbei-ju-dan-de-wen-ti;<br>
 #0.31(0607):issue:stack:<br>
 <center>
-<img src="https://pic3.zhimg.com/v2-f2acc3be31771bdf039134a6740d53aa_r.jpg" width="96%"/>
+<img src="https://i.ibb.co/19Zwc6t/7.jpg" width="96%"/>
 </center>
+
 <br>
 2019.06.02<br>
 #0.23 Calculate the volatility and nail robot status tracking.<br>
@@ -182,8 +190,9 @@ Big Wave Turns Over 0.1:<br>
           It is impossible to respond in time and the phenomenon of income reversal occurs. This kind of digital currency has soared and plunged more, so when using the Tangqi'an channel and calculating the ATR, the return time should be appropriately shortened.<br>
 #0.22(0531): Server. Issue:stack:<br>
 <center>
-<img src="https://pic1.zhimg.com/v2-3d4c560fc1580593e047b09d9068cd00_r.jpg" width="96%"/>
+<img src="https://i.ibb.co/df59bh9/9.jpg" width="96%"/>
 </center>
+
 <br>
 2019.05.25<br>
 #0.2 Back to the test engine, double moving average strategy.<br>
@@ -205,13 +214,15 @@ Detail:setting.py,database.db, sqlite database, mainwindow.py, qt.bar, user file
 Detail: pandas handles listcsvdict conversions, time handles timestamp conversions, urllib.request.<br>
 #0.12(0522): ubuntu, windows environment configuration, issue: exchange loading, market record. Stack:mongodb,qt<br>
 <center>
-<img src="https://pic2.zhimg.com/80/v2-af842ed2d81aeeb334e2967bc76c55ed_hd.jpg" width="96%"/>
+<img src="https://i.ibb.co/VLrN6R5/11.jpg" width="96%"/>
 </center>
+
 <br>
 2019.05.17<br>
 #0.1 vnpy framework mac environment configuration is completed, backtest data resources are obtained.<br>
 Detail:https://www.vnpy.com/forum/topic/395-mac-xia-an-zhuang-yun-xing-vnpy-2-0
 Setup.py install; bash install.sh; https://www.zhihu.com/question/265468047<br>
+
 #0.2(0520): Automated acquisition of cleaning backtest data script; market record. Issue: The exchange is loaded. Stack:mongodb<br>
 <center>
 <img src="https://pic2.zhimg.com/v2-47925bb835e8398653d505d02d50b05d_r.jpg" width="96%"/>
