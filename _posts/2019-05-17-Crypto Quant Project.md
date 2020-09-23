@@ -170,7 +170,7 @@ Code analysis: https://www.jyzzj.online/viewtopic.php?f=3&t=6&sid=1e09752fa66daa
 Market performance indicator calculation: volatility.<br>
 #0.3(0604): Change the server and go online turtle strategy. Issue:stack:<br>
 <center>
-<img src="https://pic3.zhimg.com/v2-b4489e228c24d28189336d3fc9e8107e_r.jpg" width="96%"/>
+<img src="https://i.ibb.co/PzzxHqk/v2-b4489e228c24d28189336d3fc9e8107e-r.jpg" width="96%"/>
 </center>
 <br>
 2019.05.31<br>
